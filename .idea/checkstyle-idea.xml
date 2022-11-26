@@ -10,7 +10,7 @@
       <list>
         <ConfigurationLocation id="bundled-sun-checks" type="BUNDLED" scope="All" description="Sun Checks">(bundled)</ConfigurationLocation>
         <ConfigurationLocation id="bundled-google-checks" type="BUNDLED" scope="All" description="Google Checks">(bundled)</ConfigurationLocation>
-        <ConfigurationLocation id="ea0796c1-c652-4bb0-a679-0fcb3630a69b" type="LOCAL_FILE" scope="All" description="ITP">
+        <ConfigurationLocation id="db937662-1164-4b2d-a231-cd9ced1c5fd9" type="LOCAL_FILE" scope="All" description="itp">
           $USER_HOME$/Downloads/ITP_checks.xml
           <option name="properties">
             <map>
